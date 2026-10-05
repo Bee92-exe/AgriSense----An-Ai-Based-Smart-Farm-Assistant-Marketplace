@@ -1,0 +1,2 @@
+# AgriSense----An-Ai-Based-Smart-Farm-Assistant-Marketplace
+AgriSense is a Bangla-first mobile platform empowering marginal farmers in Bangladesh with AI-powered crop disease detection, soil and weather-based recommendations, and local voice interaction. Its verified Haat_Bazar marketplace connects farmers with licensed vendors to purchase recommended seeds, fertilizers, and medicines safely and directly.
